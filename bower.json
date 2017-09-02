@@ -1,0 +1,21 @@
+{
+  "name": "website-vue",
+  "description": "A Vue.js project",
+  "main": "",
+  "directory": "assets",
+  "authors": [
+    "yksdjx <yksdjx@126.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yksdjx/website-vue",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
